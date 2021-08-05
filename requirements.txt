@@ -1,0 +1,7 @@
+azure.mgmt.compute
+azure.mgmt.resource
+azure.mgmt.subscription
+azure.mgmt.network
+azure.mgmt.storage
+azure.identity
+pyfiglet
